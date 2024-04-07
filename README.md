@@ -1,5 +1,5 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Pseudociência
+  O trabalho investiga diversas formas de pseudociências, como astrologia e homeopatia, analisando suas características e impactos na sociedade. Explora os motivos por trás da adesão a essas crenças e destaca os desafios para a promoção do pensamento crítico. Sugere estratégias educacionais e políticas públicas para combater a propagação das pseudociências e promover uma sociedade mais baseada em evidências e racionalidade.
 
 ## Alunos integrantes da equipe
 
