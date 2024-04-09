@@ -6,7 +6,6 @@
 * João Paulo Carvalho Guedes
 * Guilherme Marques Roberto de Oliveira
 * Joao Vitor Santana Lopes
-* Henrique Nunes Miranda
 * Arthur Fonseca Delmiro de Jesus
 
 
