@@ -57,6 +57,16 @@ O problema que a aplicação deve resolver é a disseminação de fake news e ps
 Esse problema pode causar desconfiança em fontes confiáveis, e contribuir para a propragação de informações sem validação científica.
 A aplicação será utilizada por usuários que buscam validar informações científicas e discernir entre conteúdo legítimo e pseudocientífico. Ela pode ser implementada como uma plataforma online ou um aplicativo móvel, oferecendo recursos como verificação de fatos, acesso a fontes confiáveis, educação científica e ferramentas para ajudar os usuários a entenderem melhor o método científico e a avaliarem criticamente as informações que encontram.
 
+> Descreva a importância ou a motivação para trabalhar com esta aplicação
+> que você escolheu. Indique as razões pelas quais você escolheu seus
+> objetivos específicos ou as razões para aprofundar em certos aspectos
+> do software.
+> 
+> O grupo de trabalho pode fazer uso de questionários, entrevistas e
+> dados estatísticos, que podem ser apresentados, com o objetivo de
+> esclarecer detalhes do problema que será abordado pelo grupo.
+>
+
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
@@ -71,6 +81,13 @@ Desenvolver um software eficaz para solucionar o problema da disseminação de i
 Objetivos específicos:
 -Integrar a aplicação com bases de dados científicas confiáveis e atualizadas, oferecendo aos usuários acesso fácil a informações precisas e verificadas, facilitando a validação de conteúdo científico.
 -Criar uma comunidade online dentro da aplicação, onde os usuários possam interagir, discutir e compartilhar informações relacionadas à ciência, promovendo o engajamento e o compartilhamento de conhecimento entre os usuários.
+ 
+ > Aqui você deve descrever os objetivos do trabalho indicando que o
+ > objetivo geral é desenvolver um software para solucionar o problema
+ > apresentado acima. Apresente também alguns (pelo menos 2) objetivos
+ > específicos dependendo de onde você vai querer concentrar a sua
+ > prática investigativa, ou como você vai aprofundar no seu trabalho.
+ >
 
 
 > **Links Úteis**:
@@ -82,6 +99,7 @@ Objetivos específicos:
  Devido a internet e as redes sociais, a propagação de desinformação se tornou mais rápida. Uma aplicação que aborda esse problema pode ter um impacto significativo para evitar a que informações pseudocientíficas online ganhem força.
  Os objetivos específicos foram escolhidos para educar os usuários sobre os princípios científicos e como avaliar criticamente informações, além de garantir a interação entre eles.
 
+ 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
