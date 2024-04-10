@@ -9,8 +9,8 @@ Engenharia de Software
 
 ## Participantes
 
-> Arthur Fonseca Delmiro de Jesus
-> Guilherme Marques Roberto de Oliveira
+> Arthur Fonseca Delmiro de Jesus 
+> Guilherme Marques Roberto de Oliveira 
 > João Paulo Carvalho Guedes
 > João Vitor Santana Lopes  
 
@@ -53,19 +53,10 @@ Engenharia de Software
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O problema que a aplicação deve resolver é a disseminação de fake news e pseudociências. Devido a ploriferação de informações na internet, muitas vezes sem fundamentação, diversas vezes é difícil discernir o que é válido ou não.
+Esse problema pode causar desconfiança em fontes confiáveis, e contribuir para a propragação de informações sem validação científica.
+A aplicação será utilizada por usuários que buscam validar informações científicas e discernir entre conteúdo legítimo e pseudocientífico. Ela pode ser implementada como uma plataforma online ou um aplicativo móvel, oferecendo recursos como verificação de fatos, acesso a fontes confiáveis, educação científica e ferramentas para ajudar os usuários a entenderem melhor o método científico e a avaliarem criticamente as informações que encontram.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
@@ -73,30 +64,24 @@ Engenharia de Software
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivo geral:
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+Desenvolver um software eficaz para solucionar o problema da disseminação de informações pseudocientíficas, fornecendo aos usuários uma ferramenta confiável para validar informações científicas e diferenciar entre conteúdo legítimo e pseudocientífico.
+
+Objetivos específicos:
+> Integrar a aplicação com bases de dados científicas confiáveis e atualizadas, oferecendo aos usuários acesso fácil a informações precisas e verificadas, facilitando a validação de conteúdo científico.
+> Criar uma comunidade online dentro da aplicação, onde os usuários possam interagir, discutir e compartilhar informações relacionadas à ciência, promovendo o engajamento e o compartilhamento de conhecimento entre os usuários.
+
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ A disseminação de informações pseudocientíficas pode levar a decisões prejudiciais à saúde, ao meio ambiente e à sociedade em geral. Ao fornecer uma ferramenta para validar e discernir informações científicas, podemos contribuir para uma sociedade mais informada e capacitada a tomar decisões fundamentadas.
+ Devido a internet e as redes sociais, a propagação de desinformação se tornou mais rápida. Uma aplicação que aborda esse problema pode ter um impacto significativo para evitar a que informações pseudocientíficas online ganhem força.
+ Os objetivos específicos foram escolhidos para educar os usuários sobre os princípios científicos e como avaliar criticamente informações, além de garantir a interação entre eles.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
