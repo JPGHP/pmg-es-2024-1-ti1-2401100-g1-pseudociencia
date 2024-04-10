@@ -53,7 +53,7 @@ Engenharia de Software
 
 ## Problema
 
-O problema que a aplicação deve resolver é a disseminação de fake news e pseudociências. Devido a ploriferação de informações na internet, muitas vezes sem fundamentação, diversas vezes é difícil discernir o que é válido ou não.
+O problema que a aplicação deve resolver é a disseminação de fake news e pseudociências. Devido a proliferação de informações na internet, muitas vezes sem fundamentação, diversas vezes é difícil discernir o que é válido ou não.
 Esse problema pode causar desconfiança em fontes confiáveis, e contribuir para a propragação de informações sem validação científica.
 A aplicação será utilizada por usuários que buscam validar informações científicas e discernir entre conteúdo legítimo e pseudocientífico. Ela pode ser implementada como uma plataforma online ou um aplicativo móvel, oferecendo recursos como verificação de fatos, acesso a fontes confiáveis, educação científica e ferramentas para ajudar os usuários a entenderem melhor o método científico e a avaliarem criticamente as informações que encontram.
 
