@@ -99,6 +99,16 @@ Objetivos específicos:
  Devido a internet e as redes sociais, a propagação de desinformação se tornou mais rápida. Uma aplicação que aborda esse problema pode ter um impacto significativo para evitar a que informações pseudocientíficas online ganhem força.
  Os objetivos específicos foram escolhidos para educar os usuários sobre os princípios científicos e como avaliar criticamente informações, além de garantir a interação entre eles.
 
+ > Descreva a importância ou a motivação para trabalhar com esta aplicação
+> que você escolheu. Indique as razões pelas quais você escolheu seus
+> objetivos específicos ou as razões para aprofundar em certos aspectos
+> do software.
+> 
+> O grupo de trabalho pode fazer uso de questionários, entrevistas e
+> dados estatísticos, que podem ser apresentados, com o objetivo de
+> esclarecer detalhes do problema que será abordado pelo grupo.
+>
+
  
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
@@ -118,7 +128,6 @@ Profissionais da Saúde:
  Podem incluir médicos, enfermeiros, farmacêuticos e outros profissionais de saúde em diferentes estágios de suas carreiras.
 
 Educadores:
-
  Têm conhecimento sobre o método científico e podem ter experiência em ensinar conceitos científicos a alunos de diferentes faixas etárias.
  Podem variar, mas muitos educadores estão cada vez mais integrando a tecnologia em suas práticas de ensino.
  Podem incluir professores de ciências em escolas primárias, secundárias ou de nível superior, bem como educadores informais em museus ou centros de ciência.
