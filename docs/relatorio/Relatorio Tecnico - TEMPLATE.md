@@ -1,21 +1,18 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PseudoPurge
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Engenharia de Software
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> Arthur Fonseca Delmiro de Jesus
+> Guilherme Marques Roberto de Oliveira
+> João Paulo Carvalho Guedes
+> João Vitor Santana Lopes  
 
 # Estrutura do Documento
 
