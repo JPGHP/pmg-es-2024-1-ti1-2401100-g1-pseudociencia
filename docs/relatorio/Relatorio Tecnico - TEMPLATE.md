@@ -69,8 +69,8 @@ Objetivo geral:
 Desenvolver um software eficaz para solucionar o problema da disseminação de informações pseudocientíficas, fornecendo aos usuários uma ferramenta confiável para validar informações científicas e diferenciar entre conteúdo legítimo e pseudocientífico.
 
 Objetivos específicos:
-> Integrar a aplicação com bases de dados científicas confiáveis e atualizadas, oferecendo aos usuários acesso fácil a informações precisas e verificadas, facilitando a validação de conteúdo científico.
-> Criar uma comunidade online dentro da aplicação, onde os usuários possam interagir, discutir e compartilhar informações relacionadas à ciência, promovendo o engajamento e o compartilhamento de conhecimento entre os usuários.
+-Integrar a aplicação com bases de dados científicas confiáveis e atualizadas, oferecendo aos usuários acesso fácil a informações precisas e verificadas, facilitando a validação de conteúdo científico.
+-Criar uma comunidade online dentro da aplicação, onde os usuários possam interagir, discutir e compartilhar informações relacionadas à ciência, promovendo o engajamento e o compartilhamento de conhecimento entre os usuários.
 
 
 > **Links Úteis**:
@@ -87,7 +87,23 @@ Objetivos específicos:
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Perfil dos Usuários:
+
+Estudantes Universitários:
+ Variedade de conhecimentos, dependendo da área de estudo. Podem estar familiarizados com o método científico, mas podem precisar de orientação em áreas específicas.
+ Geralmente familiarizados com tecnologia e aplicativos, pois faz parte de suas vidas cotidianas e de seus estudos.
+ Podem estar em diferentes níveis de ensino universitário, desde calouros até estudantes avançados.
+
+Profissionais da Saúde:
+ Possuem um alto nível de conhecimento em sua área de especialização, mas podem precisar de suporte para áreas fora de sua expertise.
+ Dependendo da idade e da especialidade, podem ter diferentes níveis de familiaridade com tecnologia, mas geralmente estão confortáveis em usar ferramentas digitais em sua prática profissional.
+ Podem incluir médicos, enfermeiros, farmacêuticos e outros profissionais de saúde em diferentes estágios de suas carreiras.
+
+Educadores:
+
+ Têm conhecimento sobre o método científico e podem ter experiência em ensinar conceitos científicos a alunos de diferentes faixas etárias.
+ Podem variar, mas muitos educadores estão cada vez mais integrando a tecnologia em suas práticas de ensino.
+ Podem incluir professores de ciências em escolas primárias, secundárias ou de nível superior, bem como educadores informais em museus ou centros de ciência.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
