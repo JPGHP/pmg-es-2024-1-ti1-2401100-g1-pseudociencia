@@ -380,7 +380,7 @@ https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVNiWg54Q=/ | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/XXXXXXX | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
