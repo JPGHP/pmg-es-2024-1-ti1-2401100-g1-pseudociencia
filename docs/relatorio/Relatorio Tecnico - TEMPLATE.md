@@ -149,7 +149,14 @@ Educadores:
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Entrevistas e Questionários: Para coletar informações sobre as necessidades e expectativas dos usuários em relação à aplicação, foram realizadas entrevistas e questionários com potenciais usuários, especialistas em ciência e educação, e outros stakeholders relevantes.
+
+Análise de Stakeholders: Identificação e análise dos diferentes stakeholders envolvidos no projeto, incluindo usuários finais, equipe de desenvolvimento, especialistas em conteúdo científico, entre outros, para compreender suas necessidades e expectativas.
+
+Brainstorming: Junção e desenvolvimento das ideias dos membros do grupo, sendo assim, selecionadas as mais adequadas em nossa concepção.
+
+Mural de possibilidades: As escolhas foram afuniladas, e assim foram criadas e desenvolvidas mais claramente as ideias, e como elas seriam apresentadas no projeto.
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -204,8 +211,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+|**ID**| **Descrição do Requisito**| **Prioridade**|
+|Rf-001|  Tela de login(simulado) | ALTA |
+|Rf-002|  Tela de cadastro(simulado) | ALTA |
+|Rf-003|  Mapa Interativo | MÉDIA |
+|Rf-004|  Fórum de discussão | BAIXA |
+|Rf-005|  Blog Informativo sobre pseudociência | ALTA |
+|Rf-006|  Fórum de perguntas e respostas | BAIXA |
+|Rf-007|  Área para divulgacão de experiências negativas sobre pseudociência | BAIXA |
+|Rf-008|  Área para informar sites confiáveis e seguros em relação a pseudociência | MÉDIA |
 
 ### Requisitos Funcionais
 
@@ -311,8 +325,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Metodologia
+Design Thinking:
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Empatia: O grupo realizou pesquisas para entender as necessidades e desafios dos usuários em relação à verificação de informações científicas e à identificação de pseudociência.
+Definição: Com base nas informações coletadas, o grupo definiu claramente o problema a ser resolvido e os objetivos da aplicação.
+Ideação: Foram realizadas sessões de brainstorming para gerar ideias criativas e soluções inovadoras para abordar o problema.
+Divisão de Papéis e Tarefas: O grupo adotou papéis claros, as tarefas foram divididas em incrementos menores e atribuídas a membros específicos da equipe.
+
+Ferramentas:
+
+GitHub: O GitHub foi utilizado para gerenciamento de configuração do projeto, e colaboração entre os membros da equipe. Houve a documentação e acompanhamento de problemas.
+Ferramentas de Projeto Online: Para acompanhar o progresso do projeto, foram utilizadas ferramentas online, como Trello.
+
+Essa abordagem integrada permitiu que o grupo desenvolvesse uma aplicação que atendesse às necessidades das personas de forma eficaz, com uma combinação de Design Thinking para entender os problemas dos usuários e Scrum para gerenciar o desenvolvimento da solução.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -343,11 +368,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+Processo de Design Thinking: O Miro foi escolhido devido à sua capacidade de permitir colaboração em tempo real, facilitando a realização de workshops de design thinking e a criação de mapas mentais, fluxos de usuário e outras ferramentas de design colaborativo.
+https://miro.com/app/board/uXjVNiWg54Q=/
+
+Repositório de código: O GitHub foi selecionado como plataforma de hospedagem de código devido à sua ampla adoção, recursos avançados de controle de versão e facilidade de colaboração entre os membros da equipe.
+https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/edit/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md
+
+
+Protótipo Interativo: O Figma foi escolhido para criar protótipos interativos devido à sua facilidade de uso, recursos avançados de design e capacidade de colaboração em tempo real. Ele permite que a equipe crie protótipos de alta fidelidade para validar e iterar sobre o design da aplicação.
+https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=57%3A468&mode=design&t=aMW52JcBdY4dAFXZ-1
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVNiWg54Q=/ | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
