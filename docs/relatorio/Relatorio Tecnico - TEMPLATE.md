@@ -304,7 +304,50 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/224615a3-fec1-414d-a067-a5a6345866c1)
+
+Página - Landing Page
+A landing-page será a primeira página que o usuário irá se deparar ao entrar em nosso site. Nela, apresentamos o blog.
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/0637af0e-9ae0-42ce-b3b4-8743101b0d97)
+
+Página - Fórum
+Esse vai ser o fórum de discussão e de perguntas e respostas do site.
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/aa015fb3-bef1-402d-b7d7-040c52c7a9e1)
+
+Página - Mapa Interativo
+Nessa página teremos um mapa interativo que mostra a pseudociência mais famosas de alguns países selecionados.
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/b78b40a1-6125-4ee6-9622-be4be6e46b01)
+
+Página - Artigo do Blog
+Nessa página teremos as informações da pseudociencia selecionada, como combater e verificar sua vericidade.
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/11df2079-7dea-46ad-a4a3-1b14e17586e5)
+
+Página - Tópico do fórum
+Aqui vai ocorrer as perguntas e respostas e as discussões do fórum.
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/b3bf76cd-50b6-4a15-afa0-06c322ebba33)
+
+Página - Post
+Nesta página será onde os usuários irão fazer os post no fórum, e os usuaários autorizados poderão fazer um post no blog.
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/36bd26a6-93af-44c8-ae69-13051d1c5dc8)
+
+Página - Cadastro
+Aqui os usuários irão fazer seu cadastro(Simulado).
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/962402c5-5f28-4595-bad6-e6d7ae38fd21)
+
+Página - Login
+Aqui os usuários irão fazer seu login(simulado).
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/04d8bf76-35bc-4117-b18c-6250788c962e)
+
+Página - Esquecer senha
+Nessa página os usuários que esqueceram suas senhas poderão requisitar um email para altera-la(Simulado).
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
