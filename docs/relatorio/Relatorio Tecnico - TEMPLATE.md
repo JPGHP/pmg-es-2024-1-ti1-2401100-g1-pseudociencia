@@ -357,7 +357,12 @@ Essa abordagem integrada permitiu que o grupo desenvolvesse uma aplicação que 
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Arthur: Criação de personas
+Guilherme: Documentação do projeto, entrevista
+João Paulo: Wireframe, Userflow, requisitos
+João Vitor: requisitos, historias de usário e slides
+
+Todo o grupo foi presente durante a parte do Desing Thinking, todos participaram do processo no Miro.
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
