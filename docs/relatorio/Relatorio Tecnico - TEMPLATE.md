@@ -342,6 +342,7 @@ Aqui os usuários irão fazer seu cadastro(Simulado).
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/962402c5-5f28-4595-bad6-e6d7ae38fd21)
 
 Página - Login
+
 Aqui os usuários irão fazer seu login(simulado).
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/73785066/04d8bf76-35bc-4117-b18c-6250788c962e)
