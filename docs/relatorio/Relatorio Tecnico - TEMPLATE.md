@@ -211,22 +211,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
-|**ID**| **Descrição do Requisito**| **Prioridade**|
-|Rf-001|  Tela de login(simulado) | ALTA |
-|Rf-002|  Tela de cadastro(simulado) | ALTA |
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| Tela de login(simulado)| ALTA | 
+|RF-002| Tela de cadastro(simulado)  | ALTA|
 |Rf-003|  Mapa Interativo | MÉDIA |
 |Rf-004|  Fórum de discussão | BAIXA |
 |Rf-005|  Blog Informativo sobre pseudociência | ALTA |
 |Rf-006|  Fórum de perguntas e respostas | BAIXA |
 |Rf-007|  Área para divulgacão de experiências negativas sobre pseudociência | BAIXA |
 |Rf-008|  Área para informar sites confiáveis e seguros em relação a pseudociência | MÉDIA |
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
 ### Requisitos não Funcionais
