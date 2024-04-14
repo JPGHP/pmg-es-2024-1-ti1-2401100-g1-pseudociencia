@@ -9,10 +9,10 @@ Engenharia de Software
 
 ## Participantes
 
-> Arthur Fonseca Delmiro de Jesus 
-> Guilherme Marques Roberto de Oliveira 
-> João Paulo Carvalho Guedes
-> João Vitor Santana Lopes  
+> Arthur Fonseca Delmiro de Jesus; 
+> Guilherme Marques Roberto de Oliveira;
+> João Paulo Carvalho Guedes;
+> João Vitor Santana Lopes;  
 
 # Estrutura do Documento
 
