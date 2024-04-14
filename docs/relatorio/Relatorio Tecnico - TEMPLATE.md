@@ -164,7 +164,6 @@ Mural de possibilidades: As escolhas foram afuniladas, e assim foram criadas e d
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -230,8 +229,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Responsividade em Dispositivos Móveis| MÉDIA | 
+|RNF-002| Processamento Rápido de Requisições |  BAIXA | 
+|Rf-003|   Navegação Intuitiva | ALTA |
+|Rf-004|  Facilidade de Atualização | MÉDIA |
+|Rf-005|  Compatibilidade com Diferentes Navegadores | MÉDIA |
+|Rf-006|   Criptografia de Dados Sensíveis | ALTA |
+|Rf-007|  Alta Disponibilidade | ALTA |
+|Rf-008|  Capacidade de Escalabilidade Horizontal | MÉDIA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
