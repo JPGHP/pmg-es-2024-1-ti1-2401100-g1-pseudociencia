@@ -269,6 +269,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
+Restrição 01: Prazo de Entrega:
+
+Planejamento Eficiente: Realizar um planejamento detalhado do projeto, identificando todas as etapas e tarefas necessárias para sua conclusão dentro do prazo estabelecido. Isso inclui definir marcos intermediários, estimar prazos realistas para cada fase e atribuir recursos de forma adequada.
+Priorização de Funcionalidades: Identificar e priorizar as funcionalidades essenciais do projeto que podem ser entregues dentro do prazo estabelecido, deixando funcionalidades menos críticas para fases posteriores ou versões futuras.
+
+Restrição 02: Ausência de Módulo de Backend:
+
+Implementação de Funcionalidades Simplificadas: Adaptar as funcionalidades da aplicação para funcionar de forma simplificada e independente no frontend, evitando a necessidade de um backend complexo. Isso pode envolver a redução de complexidade em certas funcionalidades ou a utilização de abordagens alternativas para alcançar os mesmos resultados desejados.
+
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
 > geralmente limitam a solução candidata.
