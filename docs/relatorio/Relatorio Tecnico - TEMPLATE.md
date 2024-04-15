@@ -442,8 +442,8 @@ https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=
 |Repositório de código | GitHub | [GitHub](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/tree/master) | 
 |Protótipo Interativo | MavelApp ou Figma | [Figma](https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=0-1&mode=design&t=2KaZZUPB7nZKYp93-0) | 
 |Kanban | Trello | [Trello](https://trello.com/b/GpMiYox8/pseudociencia) | 
-|IDE | VSCODE | [vscode](https://code.visualstudio.com) | 
-|Site de hospedagem | Heroku | [Heroku]([https://code.visualstudio.com](https://www.heroku.com/home)) | 
+|ide | Visual Studio Code | [vscode](https://code.visualstudio.com) | 
+|Site de hospedagem | Heroku | [Heroku](https://www.heroku.com/home) | 
 
 
 >
