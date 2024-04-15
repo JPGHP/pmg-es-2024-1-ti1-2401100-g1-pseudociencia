@@ -164,6 +164,10 @@ Mural de possibilidades: As escolhas foram afuniladas, e assim foram criadas e d
 
 ## Personas e Mapas de Empatia
 
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/164092884/4b3bc1c7-ce60-4bb5-a07e-489e8e9f6717)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/164092884/cafcdb63-6c0b-4adf-a81c-f277dfc20266)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/assets/164092884/97a3e54a-1dfc-4d49-9fb2-77c42ddcd7f0)
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
