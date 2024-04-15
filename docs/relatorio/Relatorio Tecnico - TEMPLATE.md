@@ -191,7 +191,7 @@ Mural de possibilidades: As escolhas foram afuniladas, e assim foram criadas e d
 ## Histórias de Usuários
 
 Histórias de Usuário:
-|eu como cientista| quero um lugar onde encontrar sites confiáveis com relação as pseudociências | para ter pesquisas confiáveis|
+|eu como cientista| quero um lugar onde encontrar sites confiáveis com relação as pseudociências | para ter pesquisas confiáveis| <br>
 |eu como usuário do site|quero me cadastrar no site|para ficar por dentro das informações|
 |eu como usuário do site|quero logar no site|para ficar por dentro das informações e conversar nos foruns|
 |Eu como pessoa comum|quero um lugar para perguntar sobre pseudociências para especialistas|para ficar por dentro das informações de forma confiável|
