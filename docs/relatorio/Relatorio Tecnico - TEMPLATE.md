@@ -473,7 +473,10 @@ https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Na Gestão de Código Fonte, utilizamos o GitHub. Além disso, é possível ver cada update relacionados ao trabalho, criando assim uma organização e clareza do projeto. Assim, conseguimos ver o que cada integrante do grupo fez, o que mudou no projeto e como foi feito.
+
+A estrutura das branches foi organizada com uma branch dedicada a cada membro do grupo, permitindo que a branch principal permaneça sem erros.
+
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
