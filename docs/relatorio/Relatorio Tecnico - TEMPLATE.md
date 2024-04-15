@@ -375,9 +375,7 @@ Nessa página os usuários que esqueceram suas senhas poderão requisitar um ema
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+
 
 
 # Metodologia
