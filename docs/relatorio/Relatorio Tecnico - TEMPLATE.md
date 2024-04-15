@@ -288,7 +288,7 @@ Implementação de Funcionalidades Simplificadas: Adaptar as funcionalidades da 
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Neste documento, apresentaremos as principais interfaces da solução desenvolvida, que visa atender aos requisitos funcionais, não funcionais e histórias de usuário definidos nas Especificações do Projeto. As interfaces foram elaboradas com o objetivo de proporcionar uma experiência de usuário intuitiva, eficiente e que atenda às necessidades dos usuários finais.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
