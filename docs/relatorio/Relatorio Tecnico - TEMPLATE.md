@@ -190,15 +190,15 @@ Mural de possibilidades: As escolhas foram afuniladas, e assim foram criadas e d
 
 ## Histórias de Usuários
 
-Histórias de Usuário:
+Histórias de Usuário: <br>
 |eu como cientista| quero um lugar onde encontrar sites confiáveis com relação as pseudociências | para ter pesquisas confiáveis| <br>
-|eu como usuário do site|quero me cadastrar no site|para ficar por dentro das informações|
-|eu como usuário do site|quero logar no site|para ficar por dentro das informações e conversar nos foruns|
-|Eu como pessoa comum|quero um lugar para perguntar sobre pseudociências para especialistas|para ficar por dentro das informações de forma confiável|
-|eu como vítima de pseudociências|quero um lugar para contar as minhas experiências para os outros|para que ninguém passe pela mesma situação|
-|eu como universitário|quero um lugar que conta sobre diferentes pseudociências|para ficar por dentro das informações de forma confiável|
-|eu como universitário|quero um lugar para ver onde cada pseudociências surgiram e onde são mais famosas|para conhecer os lugares e pseudociências mais famosas|
-|eu como cientista|quero um lugar para debater sobre pseudociências|para conversar com outras pessoas sobre esse assunto e abrir a minha mente sobre o assunto|
+|eu como usuário do site|quero me cadastrar no site|para ficar por dentro das informações| <br> 
+|eu como usuário do site|quero logar no site|para ficar por dentro das informações e conversar nos foruns| <br> 
+|Eu como pessoa comum|quero um lugar para perguntar sobre pseudociências para especialistas|para ficar por dentro das informações de forma confiável| <br>
+|eu como vítima de pseudociências|quero um lugar para contar as minhas experiências para os outros|para que ninguém passe pela mesma situação| <br> 
+|eu como universitário|quero um lugar que conta sobre diferentes pseudociências|para ficar por dentro das informações de forma confiável| <br> 
+|eu como universitário|quero um lugar para ver onde cada pseudociências surgiram e onde são mais famosas|para conhecer os lugares e pseudociências mais famosas| <br>
+|eu como cientista|quero um lugar para debater sobre pseudociências|para conversar com outras pessoas sobre esse assunto e abrir a minha mente sobre o assunto| <br>
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
