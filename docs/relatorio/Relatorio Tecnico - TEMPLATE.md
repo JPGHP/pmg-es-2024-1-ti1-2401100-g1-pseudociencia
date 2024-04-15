@@ -438,10 +438,11 @@ https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro | https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | [https://miro.com/XXXXXXX](https://miro.com/app/board/uXjVNiWg54Q=/) | 
+|Repositório de código | GitHub | [https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g1-pseudociencia/tree/master) | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | [https://figma.com/XXXXXXX](https://www.figma.com/file/O6AcbnKH6V3rObZZm8dBbq/Wireframe?type=design&node-id=0-1&mode=design&t=2KaZZUPB7nZKYp93-0) | 
+|Kanban | Trello | [https://figma.com/XXXXXXX](https://trello.com/b/GpMiYox8/pseudociencia) | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
