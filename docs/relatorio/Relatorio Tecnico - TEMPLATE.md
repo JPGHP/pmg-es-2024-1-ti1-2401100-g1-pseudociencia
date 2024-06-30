@@ -512,7 +512,12 @@ A estrutura das branches foi organizada com uma branch dedicada a cada membro do
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Este projeto consiste na criação de um site dedicado a pseudociências, contendo as seguintes funcionalidades principais:
+
+-Funcionalidade de cadastro de usuário.
+-Fórum de perguntas e respostas.
+-Blogs.
+-Mapa interativo que mostra as principais pseudociências de cada país.
 
 ## Tecnologias Utilizadas
 
