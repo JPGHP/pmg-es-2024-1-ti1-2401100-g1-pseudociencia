@@ -1,5 +1,5 @@
 async function getData() {
-    const response = await fetch("/mock_data/locations.json");
+    const response = await fetch("../mock_data/locations.json");
     return response.json();
 }
 
