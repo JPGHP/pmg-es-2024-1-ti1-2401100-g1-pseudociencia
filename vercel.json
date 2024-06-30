@@ -11,7 +11,7 @@
       }
     ],
     "routes": [
-      { "src": "/mock_data/(.*)", "dest": "/public/mock_data/$1" },
+      { "src": "/public/mock_data/(.*)", "dest": "/public/mock_data/$1" },
       { "src": "/(.*)", "dest": "/public/$1" }
     ]
   }
