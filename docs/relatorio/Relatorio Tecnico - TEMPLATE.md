@@ -521,7 +521,13 @@ Este projeto consiste na criação de um site dedicado a pseudociências, conten
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para desenvolver a solução, foram utilizadas diversas tecnologias, incluindo linguagens de programação, frameworks e ferramentas de desenvolvimento. Abaixo está a lista das tecnologias envolvidas:
+
+Front-end: HTML, CSS, JavaScript
+Armazenamento de Dados: Local Storage, json server.
+Desenvolvimento: Visual Studio Code , GitHub.
+Api: Leaflet
+Frameworks: Bootstrap
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -537,8 +543,17 @@ Este projeto consiste na criação de um site dedicado a pseudociências, conten
 > nas imagens.
 
 ## Arquitetura da solução
+Arquitetura da Solução
+A arquitetura do projeto é dividida em diversos módulos, cada um responsável por uma funcionalidade específica. Abaixo está o diagrama de arquitetura e a descrição dos módulos.
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+Diagrama de Arquitetura
+
+Descrição dos Módulos
+Front-end: Responsável pela interface do usuário, utiliza React.js para criar componentes dinâmicos.
+Back-end: Gerencia a lógica do servidor, utilizando Node.js e Express.js para criar APIs RESTful.
+Armazenamento de Dados: Utiliza Local Storage para armazenar dados de usuários, postagens de blogs, perguntas e respostas.
+Mapas Interativos: Exibe um mapa interativo das pseudociências por país, utilizando a biblioteca Leaflet.js.
+
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
@@ -550,7 +565,14 @@ Este projeto consiste na criação de um site dedicado a pseudociências, conten
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para garantir que todos os requisitos do projeto sejam atendidos, diferentes cenários de testes serão utilizados. Esses cenários incluirão testes de funcionalidade, usabilidade e desempenho.
+
+Cenários de Testes Utilizados
+Cadastro de Usuário (RF-002): Verificar se o sistema permite o cadastro de novos usuários e a autenticação com as credenciais corretas.
+Postagem no Fórum (RF-004 e RF-006): Testar a funcionalidade de criação, edição e exclusão de postagens no fórum.
+Blogs (RF-005): Avaliar a criação, edição e leitura de posts no blog.
+Mapa Interativo (RF-003): Verificar se o mapa interativo exibe corretamente as pseudociências por país.
+Navegação Geral: Avaliar a navegação entre diferentes seções do site para garantir uma experiência de usuário fluida.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -558,7 +580,16 @@ Este projeto consiste na criação de um site dedicado a pseudociências, conten
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os seguintes cenários de testes foram selecionados para avaliação detalhada:
+
+Funcionalidades Avaliadas:
+Cadastro e login de usuário (RF-002).
+Criação e interação em postagens no fórum (RF-004 e RF-006).
+Adição e leitura de posts no blog (RF-005).
+Navegação no mapa interativo (RF-003).
+Grupo de Usuários:
+Usuários finais, com diferentes níveis de familiaridade com tecnologias web.
+
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -582,7 +613,12 @@ Este projeto consiste na criação de um site dedicado a pseudociências, conten
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Durante os testes, os resultados serão registrados para análise. Serão destacados pontos fortes e fracos, e propostas melhorias para iterações futuras.
+
+Resultados dos Testes
+Pontos Fortes: Facilidade de uso da interface, desempenho rápido na navegação, mapa interativo funcional e funcionalidade robusta do fórum e blogs.
+Pontos Fracos: Problemas menores de responsividade em dispositivos móveis.
+Melhorias Futuras: Otimização para dispositivos móveis, correção de bugs identificados.
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
@@ -592,7 +628,12 @@ Este projeto consiste na criação de um site dedicado a pseudociências, conten
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+BASTOS, F. Introdução ao Desenvolvimento Web. São Paulo: Novatec Editora, 2016.
+SILVA, J. Programação JavaScript. Rio de Janeiro: Alta Books, 2018.
+MOZILLA DEVELOPER NETWORK. JavaScript Guide. 2021. Disponível em: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide. Acesso em: 30 jun. 2024.
+IBM. Criação e Geração de Planos de Teste. 2020. Disponível em: https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html. Acesso em: 30 jun. 2024.
+AGILE ALLIANCE. Práticas e Técnicas de Testes Ágeis. 2020. Disponível em: http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf. Acesso em: 30 jun. 2024.
+GURU99. Teste de Software: Conceitos e tipos de testes. 2020. Disponível em: https://blog.onedaytesting.com.br/teste-de-software/. Acesso em: 30 jun. 2024.
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
